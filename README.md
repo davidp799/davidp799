@@ -10,11 +10,9 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&theme=light#gh-light-mode-only" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&theme=transparent" /><br/>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&theme=light&layout=compact&hide_border=true#gh-light-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&theme=dark&layout=compact&hide_border=true#gh-dark-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&theme=transparent&layout=compact&hide_border=true" />
   </div>
 </div>
 
