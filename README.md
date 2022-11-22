@@ -15,11 +15,6 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
   </div>
 </div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&title_color=e5502b&theme=transparent&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&title_color=e5502b&theme=transparent&layout=compact&bg_color=110a3e,120a2e,120a1e&hide_border=true" />
-</p>
-
 ## Talk to me!
 
 I am on virtually every social platform out there, some of which I've linked on [my website](https://davidp.dev/social). Feel free to message me if you have something to tell me, or just want to talk to me about computery stuff.
