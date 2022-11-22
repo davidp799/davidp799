@@ -10,7 +10,7 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&theme=transparent" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&theme=transparent&layout=compact&hide_border=true" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&theme=transparent" /><br/>
 </div>
 
 ## Talk to me!
