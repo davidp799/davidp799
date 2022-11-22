@@ -11,7 +11,7 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=davidp799&show_icons=true&theme=dark#gh-dark-mode-only" /><Br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=davidp799&show_icons=true&theme=light#gh-light-mode-only" /><Br/>
+    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
     <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&show_icons=true&title_color=e5502b&theme=transparent&hide_border=true" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&title_color=e5502b&theme=transparent&layout=compact&hide_border=true" />
