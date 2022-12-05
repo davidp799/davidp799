@@ -4,7 +4,7 @@
 > Software Engineer from Philadelphia, PA.
 
 
-Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know more about me how about exploring my [GitHub-repos](https://github.com/davidp799?tab=repositories), visiting my website at [davidp.dev](https://davidp.dev), or maybe even having a look at my [GitHub Sponsor-page](https://github.com/sponsors/davidp799).
+Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know more about me, check out my [GitHub-repos](https://github.com/davidp799?tab=repositories), or visit my [website](https://davidp799.github.io/portfolio-site).
 
 ## My Stats
 
@@ -15,4 +15,4 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 
 ## Talk to me!
 
-I am on virtually every social platform out there, some of which I've linked on [my website](https://davidp.dev/social). Feel free to message me if you have something to tell me, or just want to talk to me about computery stuff.
+Find me on my social media which I've linked on my [website](https://davidp.github.io/portfolio-site/contact). Feel free to message me if you have something to tell me, or just want to talk!
