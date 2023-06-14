@@ -9,7 +9,6 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 ## My Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidp799&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&card_width=500px" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidp799&count_private=true&include_all_commits=true&theme=transparent&layout=compact&card_width=450px" /><br/>
 </div>
 
