@@ -4,7 +4,7 @@
 > Software Engineer from Philadelphia, PA.
 
 
-Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know more about me, check out my [GitHub-repos](https://github.com/davidp799?tab=repositories), or visit my [website](https://davidp799.github.io/portfolio-site).
+Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know more about me, check out my [GitHub-repos](https://github.com/davidp799?tab=repositories), or visit my [website](https://www.davidpape.dev).
 
 ## My Stats
 
