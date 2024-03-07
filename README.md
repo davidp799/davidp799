@@ -14,4 +14,4 @@ Hi 👋, I'm David, a Software Engineer from Philadelphia. If you'd like to know
 
 ## Talk to me!
 
-Find me on my social media which I've linked on my [website](https://davidp.github.io/portfolio-site/contact). Feel free to message me if you have something to tell me, or just want to talk!
+Find me on my social media which I've linked on my [website](https://www.davidpape.dev). Feel free to message me if you have something to tell me, or just want to talk!
